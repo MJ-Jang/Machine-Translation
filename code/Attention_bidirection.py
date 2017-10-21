@@ -1,8 +1,8 @@
 ################################################## 1. Import modules ###################################################
 import gensim
 import numpy as np
-import ANMT.code.helper as hp
-from ANMT.code.utils import *
+import code.helper as hp
+from code.utils import *
 import tensorflow as tf
 import os
 import time
