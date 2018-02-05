@@ -1,5 +1,5 @@
 ####################################################
-# RNN-Variational Autoencoder model
+# Simple Encoder-Decoder translation model
 #  - Author: Myeongjun Jang
 #  - email: xkxpa@korea.ac.kr
 #  - git: https://github.com/MJ-Jang
